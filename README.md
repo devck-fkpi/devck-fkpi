@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  <img src="https://file.garden/ZTE9xHKnrXRNz4Fr/munchcan.png"/>
+  <img src="https://raw.githubusercontent.com/devck-fkpi/devck-fkpi/refs/heads/main/cola-spin-3d.webp"/>
 
 <br/>
 <br/>
